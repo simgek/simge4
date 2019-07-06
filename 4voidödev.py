@@ -1,0 +1,1 @@
+# dışardan aldığı değere göre içi boş kare çiz
